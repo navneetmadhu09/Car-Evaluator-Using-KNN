@@ -127,9 +127,9 @@ Through this project, I practiced:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Navneet Madhu**
 
-Connect with me on [LinkedIn](YOUR_LINKEDIN_PROFILE_URL).
+Connect with me on [LinkedIn](www.linkedin.com/in/navneet-madhu-421090255).
 
 ---
 
